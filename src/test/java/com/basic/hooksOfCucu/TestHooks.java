@@ -48,7 +48,7 @@ public class TestHooks {
 		System.out.println("Order 1");
 		//Code the remove the data which was created 
 		//cleanup code
-		//databse connection close 
+		//database connection close 
 	}
 	
 	@After(order=2)
@@ -57,7 +57,7 @@ public class TestHooks {
 		System.out.println("Order 2");
 		//Code the remove the data which was created 
 		//cleanup code
-		//databse connection close 
+		//database connection close 
 	}
 
 }

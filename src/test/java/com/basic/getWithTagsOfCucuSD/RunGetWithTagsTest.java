@@ -14,8 +14,8 @@ import cucumber.api.junit.Cucumber;
 			//tags={"@Important"}, //All scenario executed if this is tag for feature file
 			 //tags={"@Smoke"}, //only tag with @smoke
 			//tags={"@Smoke","@Regression"}, //AND condition
-			 //tags={"@Smoke,@Regression"} , // OR condiction
-			tags={"~@Smoke"}, //
+			 //tags={"@Smoke,@Regression"} , // OR condition
+			tags={"~@Smoke"},    //
 			monochrome=true,
 			dryRun=false,
 			features= {"src/test/resources/com/basic/getWithTagsOfCucuFF/"},
@@ -29,6 +29,7 @@ import cucumber.api.junit.Cucumber;
 		
 
 public class RunGetWithTagsTest {
+	
 
 
 }
