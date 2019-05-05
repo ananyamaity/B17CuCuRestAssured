@@ -1,7 +1,7 @@
 Feature: First Rest Assured test POST 
 
 
-Scenario: Test my POST request test 
+Scenario: Test my POST request test 10
 Given  user hit the post request with "ASHA" name
 Then user validate the id is not null 
 

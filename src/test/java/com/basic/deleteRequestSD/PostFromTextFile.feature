@@ -1,7 +1,7 @@
 Feature: Delete request testing 
 
 
-Scenario: Test my Delete request 
+Scenario: Test my Delete request 2
 Given  user hit the delete request
 Then user validate the status code 
 

@@ -6,7 +6,7 @@ Feature:First Rest assured test22
 
 
 
-Scenario: Test my Get Method22
+Scenario: Test my Get Method227
 Given user start the rest assured test
 When user hit the get request
 Then user check the count or size

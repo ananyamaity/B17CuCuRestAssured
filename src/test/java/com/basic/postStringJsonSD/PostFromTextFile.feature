@@ -1,7 +1,7 @@
 Feature: POST request with json as string 
 
 
-Scenario: POST request with json as string testing 
+Scenario: POST request with json as string testing 5
 Given  user hit the post request from String
 Then user validate the id is not null 
 

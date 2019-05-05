@@ -1,7 +1,7 @@
 Feature: compare entire json
 
 
-Scenario: Test my Delete request 
+Scenario: Test my Delete request 1
 Given user compare two json string
 
 
